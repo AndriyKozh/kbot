@@ -1,0 +1,12 @@
+# Compiled binary
+/kbot
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# macOS files
+.DS_Store
